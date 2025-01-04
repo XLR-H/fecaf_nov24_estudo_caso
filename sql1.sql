@@ -97,5 +97,8 @@ create table tbl_pedido_produto (
     unique index (id)
 );
 
-show tables;
+#SE VC SALVAR E SAIR, E VOLTAR DEPOIS, TEM QUE DAR USE DB_SMGOZZO DE NOVO, PRA USAR O BANCO
 use db_smgozzo;
+show tables;
+
+#É ISSO, POR HOJE É SÓ PE-PE-PESSOAL
